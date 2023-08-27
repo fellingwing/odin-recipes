@@ -1,0 +1,20 @@
+* {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(95, 0, 0);
+}
+
+h1 {
+    color: orangered;
+}
+
+ul {
+    background-color: rgb(172, 57, 57);
+}
+
+p {
+    background-color:rgb(80, 90, 99);
+}
