@@ -1,0 +1,19 @@
+* {
+    font-family: Verdana, sans-serif;
+    color: orange;
+    font-size: 22px;
+}
+
+body {
+    background-color: black;
+}
+
+.header {
+    background-color: rgb(19, 19, 19);
+    font-size: 35px;
+}
+
+.preview-image {
+    height: auto;
+    width: 300px;
+}
