@@ -1,6 +1,10 @@
 * {
     font-family: Verdana, sans-serif;
-    text-align: center;
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
 }
 
 body {
@@ -9,13 +13,36 @@ body {
 
 h1 {
     color: #75FFA1;
+    margin: 0;
+    text-align: center;
 }
 
 ul {
     background-color: #FF9075;
+    margin: 16px 0px;
+    padding: 10px;
+}
+
+.recipe-links {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    list-style: none;
+}
+
+li {
+    margin: 5px;
 }
 
 p {
     background-color: #FF9075;
+    padding: 10px;
+}
+
+.page {
+    width: 500px;
+    background-color: #8C7682;
+    padding: 20px;
+    margin: auto;
 }
 /* #8C7A76 #8C7682 #768C7D #75FFA1 #FF9175*/
